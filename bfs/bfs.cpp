@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include <climits>
 #include <cstddef>
 
 #include "../common/CycleTimer.h"
